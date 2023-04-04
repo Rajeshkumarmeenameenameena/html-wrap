@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin: 0.5rem;
+}
+
+#min {
+    padding: 0rem 0rem 0rem 5rem;
+}
+
+img:hover {
+    border-radius: 50%;
+    border-color: red;
+    transition: 1s;
+}
